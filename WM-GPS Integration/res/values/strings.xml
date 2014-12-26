@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kishore\'s WM</string>
+    <string name="welcome">Welcome Kishore!</string>
+    <string name="hidden"></string>
+    <string name="welcome1">Second Welcome To Text Renderer!</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_main">Main Activity</string>
+    <string name="title_activity_display_message">My Message</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_maps">RF Menu</string>
+    <string name="switch_to_user">Switch To User</string>
+    <string name="title_activity_supervisor">Welcome Supervisor</string>
+    <string name="title_activity_user">Welcome User, Please follow Map</string>
+    <string name="title_activity_draw_map">DrawMapActivity</string>
+    <string name="number_of_users">Number of Users</string>
+    <string name="switch_to_supervisor">Switch To Supervisor</string>
+    <string name="number_of_users_to_monitor">Enter the Number of Users to Monitor</string>
+    <string name="users_activity">User Activities : </string>
+    <string name="could_load">Couldn\'t Load details, please go back and refresh </string>
+    
+    
+
+</resources>
